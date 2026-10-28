@@ -2,7 +2,7 @@
 
 **서비스명: Gluvi**
 
-> 프로젝트의 기준 문서입니다. **사람·AI(Claude, GPT 등) 모든 팀원은 작업 전에 0장을 먼저 읽습니다.** 배경 설명과 FAQ는 [team-guide.md](team-guide.md), 시장조사는 [market-research.md](market-research.md)를 참고하세요.
+> 프로젝트의 기준 문서입니다. **사람·AI(Claude, GPT 등) 모든 팀원은 작업 전에 0장을 먼저 읽습니다.**
 
 ### 버전 기록
 | 버전 | 날짜 | 내용 |
